@@ -1,8 +1,20 @@
 {
-  "CC-5ZT9-QSNS-5C748FC2": {
+  "CC-9KNH-H9HR-6271F4BD": {
     "fingerprint": "",
-    "dataAtivacao": "2026-05-23",
-    "versao": "1.0.0",
-    "ativo": false
+    "dataAtivacao": "2026-06-01T00:00:00.000Z",
+    "versao": "1.0.1",
+    "ativo": true
+  },
+  "CC-Y6JT-42W2-7EFD4F2B": {
+    "fingerprint": "",
+    "dataAtivacao": "2026-06-01T00:00:00.000Z",
+    "versao": "1.0.1",
+    "ativo": true
+  },
+  "CC-3NJ6-YDDZ-957E0D23": {
+    "fingerprint": "",
+    "dataAtivacao": "2026-06-01T00:00:00.000Z",
+    "versao": "1.0.1",
+    "ativo": true
   }
 }
